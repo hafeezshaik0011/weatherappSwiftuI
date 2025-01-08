@@ -46,3 +46,4 @@ Replace the placeholder API key in the WeatherAPI.swift file with your OpenWeath
 Build and run the app on a simulator or physical device.
 
 
+/Users/hafeezsheik/Desktop/Simulator Screenshot - iPhone 15 Pro - 2025-01-09 at 00.52.18.png
