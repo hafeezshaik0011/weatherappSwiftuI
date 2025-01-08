@@ -44,6 +44,3 @@ Navigate to the project directory and open the .xcodeproj file.
 Ensure you have Xcode 14+ installed.
 Replace the placeholder API key in the WeatherAPI.swift file with your OpenWeather API key.
 Build and run the app on a simulator or physical device.
-
-
-/Users/hafeezsheik/Desktop/Simulator Screenshot - iPhone 15 Pro - 2025-01-09 at 00.52.18.png
